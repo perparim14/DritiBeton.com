@@ -248,6 +248,16 @@ footer{
 @media screen and (max-width: 414px) {
 
     
+     body{
+    width: 414px;
+    height: auto;
+    overflow-x: hidden;
+    margin-bottom: 2%;
+    
+}
+    
+    
+    
     #div2{
     width: 98%;
     height: 80%;
