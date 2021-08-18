@@ -1,0 +1,207 @@
+body{
+    width: 100%;
+    height: auto;
+    overflow-x: hidden;
+    margin-bottom: 2%;
+    
+}
+
+header{
+    margin-top:;
+    width: 98%;
+    height: 10%;
+    background-color: rgba(224,224,244,1.0);
+    position: fixed;
+    z-index: 1;
+    top:0%;
+    left: 1%;
+}
+    
+#logo{
+    width: 30%;
+    height: 60%;
+    position: absolute;
+    left: 35%;
+    top:20%;
+}
+
+#div1{
+    width:100%;
+    height:100% ;
+    position: absolute;
+    top: 9%;
+        left: 1%;
+    
+    
+}
+
+#photo1{
+    position: absolute;
+    width: 98%;
+    height: 80%;
+    opacity: 0.3;
+    margin-top:2%
+    
+    
+}
+
+#photo1:hover{
+    position: absolute;
+    width: 98%;
+    height: 80%;
+    opacity: 0.5;
+    
+    
+}
+
+
+
+
+#moto{
+    position: absolute;
+    top: 30%;
+    left: 30%;
+    width: 40%;
+    text-align: center;
+    font-family: 'Staatliches', cursive;
+    color: white;
+    border: 1px  black;
+    border-width: medium;
+    background-color: rgba(64,64,64,0.7);
+    font-size: 4vw;
+    box-shadow: 5px;
+}
+
+
+#div2{
+    width: 98%;
+    height: 30%;
+    position: absolute;
+    top: 95%;
+    margin-left: 0.4%;
+    background-color: rgba(224,224,244,1.0);
+;
+}
+
+
+
+
+#div2-h1{
+    position:absolute;
+    font-family: 'Khula', sans-serif;
+
+    
+    
+}
+
+#div2-h2{
+    position: absolute;
+    top: 40%;
+    left: 10%;
+    width: 90%;
+    font-family: 'Khula', sans-serif;
+    font-size: 2vw;
+
+}
+
+
+#div3{
+    width: 98%;
+    height: 200%;
+    background-color: rgba(224,224,244,1.0);
+    position: absolute;
+    top: 127%;
+    margin-left: 0.4%;
+}
+
+
+#div3-h1{
+    font-family: 'Khula', sans-serif;
+}
+
+#div3-photo1{
+    width: 35%;
+    height: 30%;
+    position: absolute;
+    left: 10%;
+    float: left;
+    
+}
+
+#div3-photo2{
+    width: 35%;
+    height: 30%;
+    position: absolute;
+    left: 60%;
+    float: left;
+    
+}
+
+#div3-photo3{
+    width: 35%;
+    height:25% ;
+    position: absolute;
+    left: 10%;
+    top: 40%;
+    float: left;
+    
+}
+
+#div3-photo4{
+    width: 35%;
+    height:25% ;
+    position: absolute;
+    left: 60%;
+    top: 40%;
+    float: left;
+    
+}
+
+#div3-photo5{
+    width: 35%;
+    height:30% ;
+    position: absolute;
+    left: 10%;
+    top: 67%;
+    float: left;
+    
+}
+
+#div3-photo6{
+    width: 35%;
+    height:30% ;
+    position: absolute;
+    left: 60%;
+    top: 67%;
+    float: left;
+    
+}
+
+
+footer{
+    width: 98%;
+    height: 15%;
+    background-color:rgba(224,224,244,1.0) ;
+    position: absolute;
+    top: 329%;
+    margin-left: 0.4%;
+    margin-bottom: 2%;
+}
+
+#footer-h1{
+    font-size: 1vw;
+    position: absolute;
+    left:75%;
+    top: 22%
+}
+
+#facebook{
+    width: 10%;
+    position: absolute;
+    left: 0%;
+    top: 
+}
+
+
+
+
