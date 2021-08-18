@@ -1,3 +1,6 @@
+
+
+@media screen and (max-width:3000px;)
 body{
     width: 100%;
     height: auto;
@@ -75,7 +78,7 @@ header{
 
 #div2{
     width: 98%;
-    height: 30%;
+    height: 80%;
     position: absolute;
     top: 95%;
     margin-left: 0.4%;
@@ -89,6 +92,7 @@ header{
 #div2-h1{
     position:absolute;
     font-family: 'Khula', sans-serif;
+    left: 1%;
 
     
     
@@ -96,7 +100,7 @@ header{
 
 #div2-h2{
     position: absolute;
-    top: 40%;
+    top: 10%;
     left: 10%;
     width: 90%;
     font-family: 'Khula', sans-serif;
@@ -104,13 +108,44 @@ header{
 
 }
 
+#div2-h2-kontakt{
+    position: absolute;
+    top: 30%;
+    left: 1%;
+    font-family: 'Khula', sans-serif;
+    font-size: 3vw;
+}
+
+
+#div2-number{
+    position: absolute;
+    top: 30%;
+    left: 15%;
+    font-size: 3vw;
+    font-family: 'Khula', sans-serif;
+}
+
+#div2-h2-vendodhja{
+    position: absolute;
+    left: 1%;
+    top: 60%;
+    font-family: 'Khula', sans-serif;
+    font-size: 3vw;
+}
+
+#map{
+    position: absolute;
+    left: 30%;
+    top: 55%;
+    
+}
 
 #div3{
     width: 98%;
-    height: 200%;
+    height: 250%;
     background-color: rgba(224,224,244,1.0);
     position: absolute;
-    top: 127%;
+    top: 178%;
     margin-left: 0.4%;
 }
 
@@ -183,23 +218,213 @@ footer{
     height: 15%;
     background-color:rgba(224,224,244,1.0) ;
     position: absolute;
-    top: 329%;
+    top: 430%;
     margin-left: 0.4%;
     margin-bottom: 2%;
 }
 
 #footer-h1{
-    font-size: 1vw;
+    font-size: 2vw;
     position: absolute;
-    left:75%;
+    left:54%;
     top: 22%
 }
 
 #facebook{
-    width: 10%;
+    width: 15%;
     position: absolute;
     left: 0%;
-    top: 
+    top:0%; 
+}
+
+ #instagram{
+    width: 7%;
+    position: absolute;
+    left: 15%;
+    top:10%; 
+}
+
+
+@media screen and (max-width: 414px) {
+
+    
+    #div2{
+    width: 98%;
+    height: 80%;
+    position: absolute;
+    top: 92%;
+    margin-left: 0.4%;
+    background-color: rgba(224,224,244,1.0);
+;
+}
+    
+    
+    #div2-h1{
+    position:absolute;
+    font-family: 'Khula', sans-serif;
+    left: 1%;
+
+    
+    
+}
+
+#div2-h2{
+    position: absolute;
+    top: 10%;
+    left: 10%;
+    width: 90%;
+    font-family: 'Khula', sans-serif;
+    font-size: 3vw;
+
+}
+
+#div2-h2-kontakt{
+    position: absolute;
+    top: 30%;
+    left: 1%;
+    font-family: 'Khula', sans-serif;
+    font-size: 5vw;
+}
+
+
+#div2-number{
+    position: absolute;
+    top: 30%;
+    left: 25%;
+    font-size: 5vw;
+    font-family: 'Khula', sans-serif;
+}
+
+#div2-h2-vendodhja{
+    position: absolute;
+    left: 1%;
+    top: 60%;
+    font-family: 'Khula', sans-serif;
+    font-size: 3vw;
+}
+
+#map{
+    position: absolute;
+    left: 30%;
+    top: 55%;
+    
+}
+
+    
+    
+    
+    
+    
+    
+    #div3{
+    width: 98%;
+    height: 100%;
+    background-color: rgba(224,224,244,1.0);
+    position: absolute;
+    top: 174%;
+    margin-left: 0.4%;
+}
+    
+    
+    #div3-photo1{
+    width: 35%;
+    height: 25%;
+    position: absolute;
+    left: 10%;
+    float: left;
+    
+}
+
+#div3-photo2{
+    width: 35%;
+    height: 25%;
+    position: absolute;
+    left: 60%;
+    float: left;
+    
+}
+
+#div3-photo3{
+    width: 35%;
+    height:25% ;
+    position: absolute;
+    left: 10%;
+    top: 40%;
+    float: left;
+    
+}
+
+#div3-photo4{
+    width: 35%;
+    height:25% ;
+    position: absolute;
+    left: 60%;
+    top: 40%;
+    float: left;
+    
+}
+
+#div3-photo5{
+    width: 35%;
+    height:25% ;
+    position: absolute;
+    left: 10%;
+    top: 67%;
+    float: left;
+    
+}
+    
+    
+    
+    #div3-photo6{
+    width: 35%;
+    height:25% ;
+    position: absolute;
+    left: 60%;
+    top: 67%;
+    float: left;
+    
+}
+    
+
+
+    
+    footer{
+    width: 98%;
+    height: 15%;
+    background-color:rgba(224,224,244,1.0) ;
+    position: absolute;
+    top: 276%;
+    margin-left: 0.4%;
+    margin-bottom: 2%;
+}
+    
+    #footer-h1{
+    font-size: 3vw;
+    position: absolute;
+    left:56%;
+    top: 22%;
+}
+    
+    #facebook{
+    width: 20%;
+    position: absolute;
+    left: 0%;
+    top:30%; 
+}
+
+     #instagram{
+    width: 9%;
+    position: absolute;
+    left: 15%;
+    top:34%; 
+}
+    
+    
+    
+    
+    
+    
 }
 
 
