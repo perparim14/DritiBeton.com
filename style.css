@@ -248,14 +248,13 @@ footer{
 @media screen and (max-width: 414px) {
 
     
-     body{
+    body{
     width: 414px;
     height: auto;
     overflow-x: hidden;
     margin-bottom: 2%;
     
 }
-    
     
     
     #div2{
@@ -310,7 +309,7 @@ footer{
     left: 1%;
     top: 60%;
     font-family: 'Khula', sans-serif;
-    font-size: 3vw;
+    font-size: 4vw;
 }
 
 #map{
